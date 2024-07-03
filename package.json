@@ -1,0 +1,15 @@
+{
+  "name": "404_lamp",
+  "version": "1.0.0",
+  "description": "404 page based on lamp design",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --browser=msedge",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zydrunas",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
