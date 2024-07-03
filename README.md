@@ -1,4 +1,4 @@
- # 404_lempa
+ # 404-lempa
 404 error page project<br>
 You can see it <a href="https://zydrunask.github.io/404_lamp/">here</a>
 ## About
