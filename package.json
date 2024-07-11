@@ -4,7 +4,7 @@
   "description": "404 page based on lamp design",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --browser=chrome --host=localhost",
+    "dev": "dead-server --browser=chrome --host=localhost --port=6002",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Zydrunas",
